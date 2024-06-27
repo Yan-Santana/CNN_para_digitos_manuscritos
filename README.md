@@ -1,1 +1,1 @@
-# CNN_para_d-gitos_manuscritos
+# CNN_para_digitos_manuscritos
